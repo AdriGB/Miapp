@@ -43,7 +43,7 @@ function Contact() {
               <i className="bi bi-envelope-fill text-success fs-5 me-3"></i>
               <div>
                 <strong>email:</strong>
-                <p className="text-muted small mb-0">contacto@hotelmapp.com</p>
+                <p className="text-muted small mb-0">contacto@hoteleco.com</p>
               </div>
             </div>
 

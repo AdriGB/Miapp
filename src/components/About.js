@@ -4,9 +4,9 @@ function About() {
   return (
     <div className="card shadow-sm border-0 p-4">
       <div className="text-center mb-4">
-        <h2 className="text-success fw-bold">hotel mapp</h2>
+        <h2 className="text-success fw-bold">HotelEco</h2>
         <p className="text-muted">
-          bienvenido a hotel mapp, un espacio pensado para tu descanso y confort en el centro de la ciudad.
+          bienvenido a HotelEco, un espacio ecologico y pensado para tu descanso y confort en el centro de la ciudad.
         </p>
       </div>
 
